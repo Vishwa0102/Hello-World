@@ -4,5 +4,6 @@ git add
   make changes
 git commit 
 git show <>
+git 
 git push origin main
 
