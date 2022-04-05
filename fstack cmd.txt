@@ -1,0 +1,8 @@
+git clone <http link>
+git status-error-modified
+git add
+  make changes
+git commit 
+git show <>
+git push origin main
+
