@@ -1,0 +1,3 @@
+git checkout - b "b1"
+nano file
+git add <fle name>
